@@ -1,0 +1,6 @@
+.list-item {
+  cursor: pointer;
+}
+.list-item.active {
+  background-color: yellow;
+}
